@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c27add0-8cf8-4f51-b58a-857c23af6c90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WR03ocSld6f5YmR1Np2qkTnt7k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../YoutubeAutomationTest/pom.xml" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c27add0-8cf8-4f51-b58a-857c23af6c90" name="Default Changelist" comment="" />
+      <created>1579096903655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579096903655</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1288" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579102617704">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="93" y="93" width="1288" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1474.864/-1366.0.1366.728@0.0.1474.864" timestamp="1579102617704" />
+    <state x="518" y="188" key="FileChooserDialogImpl" timestamp="1579104524526">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="518" y="188" key="FileChooserDialogImpl/0.0.1474.864/-1366.0.1366.728@0.0.1474.864" timestamp="1579104524526" />
+    <state width="1431" height="446" key="GridCell.Tab.0.bottom" timestamp="1579214544385">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="446" key="GridCell.Tab.0.bottom/0.0.1474.864/-1366.0.1366.728@0.0.1474.864" timestamp="1579214544385" />
+    <state width="1431" height="446" key="GridCell.Tab.0.center" timestamp="1579214544385">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="446" key="GridCell.Tab.0.center/0.0.1474.864/-1366.0.1366.728@0.0.1474.864" timestamp="1579214544385" />
+    <state width="1431" height="446" key="GridCell.Tab.0.left" timestamp="1579214544384">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="446" key="GridCell.Tab.0.left/0.0.1474.864/-1366.0.1366.728@0.0.1474.864" timestamp="1579214544384" />
+    <state width="1431" height="446" key="GridCell.Tab.0.right" timestamp="1579214544385">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="446" key="GridCell.Tab.0.right/0.0.1474.864/-1366.0.1366.728@0.0.1474.864" timestamp="1579214544385" />
+    <state x="434" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1579192824479">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="434" y="258" key="com.intellij.ide.util.TipDialog/0.0.1474.864/-1366.0.1366.728@0.0.1474.864" timestamp="1579192824479" />
+    <state x="-1209" y="-17" width="1112" height="813" maximized="true" key="dock-window-1" timestamp="1579123482804">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1209" y="-17" width="1112" height="813" maximized="true" key="dock-window-1/0.0.1474.864/-1366.0.1366.728@0.0.1474.864" timestamp="1579123482804" />
+    <state x="-1184" y="-14" width="1112" height="813" maximized="true" key="dock-window-2" timestamp="1579126985133">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1184" y="-14" width="1112" height="813" maximized="true" key="dock-window-2/0.0.1474.864/-1366.0.1366.728@0.0.1474.864" timestamp="1579126985133" />
+  </component>
+</project>
